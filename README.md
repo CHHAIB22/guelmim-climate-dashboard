@@ -60,7 +60,6 @@ All data is fetched live from **Open-Meteo** (free, open-source weather API):
 
 ## 📸 Preview
 
-> *(Add a screenshot here after deploying)*
 
 ```
 screenshots/dashboard-overview.png
