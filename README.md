@@ -63,9 +63,9 @@ All data is fetched live from **Open-Meteo** (free, open-source weather API):
 
 ```
 screenshots/dashboard-overview.png
-![Dashboard Preview]([https://example.com/screenshot.png](https://github.com/CHHAIB22/guelmim-climate-dashboard/blob/main/screenshots/dashboard-overview.png))
-```
 
+```
+![Dashboard Preview]([https://example.com/screenshot.png](https://github.com/CHHAIB22/guelmim-climate-dashboard/blob/main/screenshots/dashboard-overview.png))
 ---
 
 ## 📁 Project Structure
