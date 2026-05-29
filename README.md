@@ -1,5 +1,6 @@
 # 🌤️ Guelmim Climate Intelligence Dashboard
 
+link = https://chhaib22.github.io/guelmim-climate-dashboard/
 A responsive, dark-themed weather & solar intelligence dashboard built with **vanilla HTML/CSS/JS** and **Chart.js**, pulling real-time data from the [Open-Meteo API](https://open-meteo.com/).
 
 > Designed for Guelmim, Morocco — ideal for solar energy analysis and PFE/research projects.
